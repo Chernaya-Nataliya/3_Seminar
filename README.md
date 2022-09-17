@@ -4,6 +4,6 @@
 * веселое :blush:
 * грустное :disappointed_relieved:
 * нейтральное :relieved:
-* рабочее :ghost:
+* восторженное :ghost:
 * осеннее :maple_leaf:
 * сонливое :sleeping:
