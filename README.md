@@ -3,7 +3,7 @@
 ## Какое настроение у вас?
 * веселое :blush:
 * грустное :disappointed_relieved:
-* нейтральное :relieved:
+* безэмоциональное :relieved:
 * рабочее :ghost:
-* осеннее :maple_leaf:
+* лиственное :maple_leaf:
 * сонливое :sleeping:
